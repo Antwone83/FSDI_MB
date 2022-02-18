@@ -17,3 +17,5 @@ class PostCreateView(CreateView):
     model = Post 
     fields = ["title", "body"]
 
+
+
